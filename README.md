@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **JayeshJain246/JayeshJain246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
