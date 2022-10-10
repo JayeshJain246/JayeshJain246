@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Hey there! :wave: I'm Jayesh
 
 ### 👨‍🎓 My portfolio website:
- https://somesh.gitbook.io/jayeshjain246/
+ https://jayeshjain246.gitbook.io/jayeshjain246/
 ### :octocat:: &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop machine/deep learning solutions.\
@@ -70,7 +70,7 @@ __Machine Learning/Deep Learning__ \
 
 ## ⚙️ &nbsp;GitHub Analytics;
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=someshfengde&label=Profile%20views&color=brightgreen&style=flat-square" alt="someshfengde" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JayeshJain246&label=Profile%20views&color=brightgreen&style=flat-square" alt="JayeshJain246" /> </p>
 
 
 <p align="center">
