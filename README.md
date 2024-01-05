@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 🌱 &nbsp;I'm on track for learning more about Computer Vision,Web development.\
 ✍️ &nbsp;In my free time, I participate in Hackathons .\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at jpkochar246@@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at jpkochar246@gmail.com! I'll try to respond as soon as I can.
 
 
 
