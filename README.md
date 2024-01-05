@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Hey there! :wave: I'm Jayesh
 
 ### 👨‍🎓 My portfolio website:
- https://jayeshjain246.gitbook.io/jayeshjain246/
+ https://jayeshjain.netlify.app/
 ### :octocat:: &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop machine/deep learning solutions.\
