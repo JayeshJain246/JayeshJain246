@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ### :octocat:: &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop machine/deep learning solutions.\
-🎓 &nbsp;I'm currently studying Computer Science(3rd year completed now I'm in 4th!) .\
-🌱 &nbsp;I'm on track for learning more about Computer Vision,Web development.\
+🎓 &nbsp;I'm currently studying Computer Science .\
+🌱 &nbsp;I'm on track for learning more about Computer Vision, Deep learning ,Web development.\
 ✍️ &nbsp;In my free time, I participate in Hackathons .\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at jpkochar246@gmail.com! I'll try to respond as soon as I can.
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack
 __Programming Languages__ \
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
+<img alt="Java" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
 
 __Frameworks and libraries__ \
