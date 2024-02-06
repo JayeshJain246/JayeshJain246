@@ -35,16 +35,17 @@ Here are some ideas to get you started:
 ### 🔭 &nbsp;I’m currently working on:
   * ML Project
   * kaggle competitions
-  * Engg exams 
+  * Job searching
 
 ### 🛠 &nbsp;Tech Stack
 __Programming Languages__ \
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
-<img alt="Java" src="https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
 
 __Frameworks and libraries__ \
 <img alt="Streamlit" src="https://img.shields.io/badge/streamlit-red?style=for-the-badge"/>&nbsp;
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>&nbsp;
 
 
 __IDEs/Editors__ \
