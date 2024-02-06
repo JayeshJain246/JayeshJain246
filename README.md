@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 💡 &nbsp;I like to explore new technologies and develop machine/deep learning solutions.\
 🎓 &nbsp;I'm currently studying Computer Science .\
-🌱 &nbsp;I'm on track for learning more about Computer Vision, Deep learning ,Web development.\
+🌱 &nbsp;I'm on track for learning more about Computer Vision, Deep learning, Web development.\
 ✍️ &nbsp;In my free time, I participate in Hackathons .\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at jpkochar246@gmail.com! I'll try to respond as soon as I can.
